@@ -1,0 +1,10 @@
+:root{
+    --primary-color: #2b2727;
+    --secondary-color: #494747;
+    --bs-body-bg: #ebe1e1;
+    --bs-body-font-family: 'Montserrat', san-serif;
+}
+
+.header{
+    z-index: 2;
+}
